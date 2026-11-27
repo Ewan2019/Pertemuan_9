@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # pertemuan9
 
 A new Flutter project.
@@ -21,3 +22,6 @@ samples, guidance on mobile development, and a full API reference.
 >>>>>>> 7d2161b1c29eec5831e58e6cea2ffe93ba2f5569
 
 Link Percobaan: https://pertemuan9-blond.vercel.app/
+=======
+# Pertemuan_9
+>>>>>>> 139042f834b91451052b12d4ff5a97c9d97ca442
